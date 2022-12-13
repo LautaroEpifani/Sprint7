@@ -20,7 +20,7 @@ const Landing = () => {
               </li>
               <li className="m-4">
                 También podemos darte mayor visibilizad con una campania en
-                Google Ads.
+                Google Ads, es muy simple.
               </li>
               <li className="m-4">
                 Te proporcionamos un servicio único de consultoria web por lo que podremos
