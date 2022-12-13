@@ -1,0 +1,36 @@
+.contenedor {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin: auto;
+}
+
+.items {
+  width: 60%;
+}
+
+.dropdown_item_list {
+  background: white;
+  display: none;
+  margin: 0;
+  box-shadow: 0 0 2px 0 gray;
+  border-radius: 5px;
+  padding: 0;
+}
+
+.dropdown_item_list.active {
+  display: inline-block;
+  height: auto;
+  width: 100%;
+}
+
+.dropdown_items {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.form {
+  width: 100%;
+  text-align: center;
+}
